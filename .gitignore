@@ -4,3 +4,5 @@ __pycache__/
 *.bin
 *.pkl
 *.h5
+saved_model/
+*.safetensors
