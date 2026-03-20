@@ -37,7 +37,6 @@ if torch.cuda.is_available():
     print("\n" + "="*60)
     print(" GPU IS WORKING!")
     print("="*60)
-    print("\nYour RTX 3050 Laptop GPU is ready for training!")
     print("Expected training time: ~15-30 minutes (vs 2-3 hours on CPU)")
     
 else:
